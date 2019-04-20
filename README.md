@@ -14,3 +14,8 @@ Install dlib: pip install dlib
 
 Install the shell environment by running: pip install pipenv
 Install face_recognition: pipenv install face_recognition
+
+
+To start shell: pipenv shell
+run: face_detection /folder/
+run: face_recognition /people_we_know/ /folder to test/
